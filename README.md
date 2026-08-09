@@ -34,9 +34,9 @@ HTML5 • CSS3 • JavaScript • Git • GitHub • SQL • MySQL • VS Code
 - ✅ HTML5
 - ✅ Git & GitHub
 - ✅ SQL
-- 🔄 CSS3
-- ⏳ JavaScript
-- ⏳ Node.Js
+- ✅ CSS3
+- 🔄 JavaScript
+- 🔄 Node.Js
 - ⏳ TypeScript
 - ⏳ React
 - ⏳ Next
@@ -53,6 +53,7 @@ HTML5 • CSS3 • JavaScript • Git • GitHub • SQL • MySQL • VS Code
 |---------|-----------|
 | 📘 [**HTML Learning**](https://github.com/Lindomar-Jr/HTML-learning) | Estudos, exercícios e desafios desenvolvidos durante o aprendizado de HTML5. |
 | 🎨 [**CSS Learning**](https://github.com/Lindomar-Jr/CSS-learning) | Repositório dedicado aos estudos e desafios de CSS3. |
+| 🎨 [**Javascript Learning**](https://github.com/Lindomar-Jr/Javascript-learning) | Repositório dedicado aos estudos e pequenos projetos práticos. |
 ---
 
 ## Objetivos
