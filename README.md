@@ -68,13 +68,4 @@ Atualmente, estou fortalecendo meu portfólio no GitHub, documentando minha evol
 - Conquistar minha primeira oportunidade como desenvolvedor de software.
 - Evoluir continuamente como profissional e como pessoa.
 
----
-
-## Conecte-se
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lindomar-jr/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
 
