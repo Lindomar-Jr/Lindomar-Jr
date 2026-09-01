@@ -62,8 +62,8 @@ Atualmente, estou fortalecendo meu portfólio no GitHub, documentando minha evol
 | Status | Tecnologias / Etapas |
 |---|---|
 | ✅ Concluído | Lógica de Programação, Algoritmos, HTML5, Git & GitHub, SQL, CSS3 |
-| ✅ Concluído| JavaScript, Node.js |
-| 🔄 Em andamento| TypeScript, React, Next.js, Tailwind, Docker, Containers, API Rest, Prisma ORM |
+| ✅ Concluído | JavaScript, Node.js |
+| 🔄 Em andamento | TypeScript, React, Next.js, Tailwind, Docker, Containers, API REST, Prisma ORM |
 
 </div>
 
@@ -122,7 +122,7 @@ Atualmente, estou fortalecendo meu portfólio no GitHub, documentando minha evol
   <a href="https://github.com/Lindomar-Jr">
     <img src="https://img.shields.io/badge/GitHub-Lindomar--Jr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/lindomar-jr/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
